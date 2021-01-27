@@ -4,6 +4,6 @@
 
 🌱 I’m currently learning Reinforcement learning, especially MARL(Multi agent reinforcement learning)
 
-What I interested in:
+### Interested
 - Robotics :robot:
-- Reinforcement learning :brain:
+- Reinforcement learning :brain: - multi-agent
