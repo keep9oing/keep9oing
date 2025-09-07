@@ -1,12 +1,8 @@
 
-🔭 Working on UNIST ASL(Autonomous Systems Laboratory)
-
-🌱 Learning Reinforcement learning, especially MARL(Multi agent reinforcement learning)
+🔭 Working on KAIST (Korea Advanced Institute of Science and Technology) FAIR lab
 
 📖 Team Blog: https://ropiens.tistory.com/
 
-💬 E-mail: starshirts@unist.ac.kr
+💬 E-mail: mj.jung@kaist.ac.kr
 
-### Interested
-- Robotics :robot:
-- Reinforcement learning :brain: - multi-agent
+Interested in decision making of multi-robot system
