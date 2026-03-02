@@ -1,5 +1,5 @@
 
-🔭 Working on KAIST (Korea Advanced Institute of Science and Technology) FAIR lab
+🔭 Working on KAIST (Korea Advanced Institute of Science and Technology) FAIR(https://fair.kaist.ac.kr/) lab
 
 📖 Team Blog: https://ropiens.tistory.com/
 
